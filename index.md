@@ -78,3 +78,7 @@ Em caso de dúvidas, solicitações ou esclarecimentos relacionados a estes Term
 ## Observação Final
 
 O uso do aplicativo é permitido apenas para fins **educacionais e informativos**, sendo vedada qualquer interpretação do conteúdo como aconselhamento financeiro profissional.
+
+---
+
+**Última atualização:** Janeiro de 2026
