@@ -6,7 +6,7 @@ Ao acessar ou utilizar o aplicativo **RendaFutura**, o usuário declara que leu,
 
 ## 1. Finalidade do Aplicativo
 
-O **RendaFutura** é um aplicativo de caráter **educacional e informativo**, desenvolvido com o objetivo de auxiliar usuários a compreender conceitos relacionados a investimentos, juros compostos e planejamento financeiro, por meio de **simulações ilustrativas**.
+O **RendaFutura** é um aplicativo de caráter **educacional e informativo**, desenvolvido com o objetivo de auxiliar usuários a compreender conceitos relacionados a investimentos, juros compostos, renda passiva e planejamento financeiro, por meio de **simulações ilustrativas**.
 
 O aplicativo **não presta consultoria financeira**, **não realiza recomendações de investimento**, **não sugere produtos financeiros específicos** e **não garante qualquer tipo de rentabilidade ou resultado econômico**.
 
@@ -16,18 +16,20 @@ O aplicativo **não presta consultoria financeira**, **não realiza recomendaç�
 
 As simulações disponibilizadas no aplicativo são baseadas **exclusivamente nos parâmetros informados pelo próprio usuário**, tais como:
 
-- valor inicial  
-- aportes periódicos  
-- taxas estimadas  
-- período de tempo  
+* valor inicial;
+* aportes periódicos;
+* taxas estimadas;
+* período de tempo;
+* patrimônio acumulado;
+* taxa estimada de retirada ou rendimento.
 
 As taxas e percentuais utilizados possuem **finalidade meramente ilustrativa** e **não representam rendimentos reais, históricos ou futuros**, tampouco refletem produtos financeiros existentes no mercado.
 
 Os resultados apresentados:
 
-- não constituem promessa ou garantia de desempenho futuro;
-- não devem ser utilizados como única base para decisões financeiras reais;
-- não substituem a análise de profissionais qualificados.
+* não constituem promessa ou garantia de desempenho futuro;
+* não devem ser utilizados como única base para decisões financeiras reais;
+* não substituem a análise de profissionais qualificados.
 
 ---
 
@@ -35,23 +37,16 @@ Os resultados apresentados:
 
 O **RendaFutura** não se responsabiliza por:
 
-- decisões financeiras, investimentos ou aplicações realizadas pelo usuário com base nas informações ou simulações exibidas no aplicativo;
-- eventuais perdas financeiras, danos diretos ou indiretos decorrentes do uso do aplicativo.
+* decisões financeiras, investimentos ou aplicações realizadas pelo usuário com base nas informações ou simulações exibidas no aplicativo;
+* eventuais perdas financeiras, danos diretos ou indiretos decorrentes do uso do aplicativo.
 
 O usuário reconhece que é **inteiramente responsável por suas decisões financeiras**, assumindo integralmente os riscos associados.
 
 ---
 
-## 4. Publicidade e Conteúdos de Terceiros
+## 4. Publicidade
 
-O aplicativo pode exibir **anúncios de terceiros**, inclusive por meio de plataformas como **Google AdMob**.
-
-O RendaFutura:
-
-- não controla o conteúdo dos anúncios exibidos;
-- não se responsabiliza por produtos, serviços ou ofertas promovidos por terceiros.
-
-O tratamento de dados eventualmente realizado por esses fornecedores é regido pelas **políticas de privacidade próprias** de cada plataforma.
+O **RendaFutura não exibe anúncios** e não utiliza plataformas de publicidade de terceiros.
 
 ---
 
@@ -71,7 +66,7 @@ O uso contínuo do aplicativo após alterações implica **aceitação automáti
 
 Em caso de dúvidas, solicitações ou esclarecimentos relacionados a estes Termos de Uso, o usuário pode entrar em contato por meio do e-mail:
 
-📧 **fasit.2026@gmail.com**
+📧 **[fasit.2026@gmail.com](mailto:fasit.2026@gmail.com)**
 
 ---
 
@@ -81,4 +76,4 @@ O uso do aplicativo é permitido apenas para fins **educacionais e informativos*
 
 ---
 
-**Última atualização:** Janeiro de 2026
+**Última atualização:** Maio de 2026
